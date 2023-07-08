@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>img/TEST.png</file>
+        <file>img/TEST2.png</file>
+        <file>img/TEST3.png</file>
+        <file>img/TEST4.png</file>
+        <file>img/TEST5.png</file>
+        <file>img/FLOOR.png</file>
+        <file>img/BLOCK.png</file>
+        <file>img/ROPE.png</file>
+        <file>img/CIRCLE.png</file>
+        <file>img/LONG.png</file>
+    </qresource>
+</RCC>
